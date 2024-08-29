@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Hardic Sharma   2019peb5508@mnit.acin   Hello!
 
 # THANKS
 
